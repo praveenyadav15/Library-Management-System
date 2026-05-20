@@ -117,7 +117,7 @@ while True:
     print("6. Remove Book")
     print("7. Exit")
 
-    choice = input("Enter your choice: ")
+    choice = input("Enter your choice : ")
 
     if choice == "1":
         library.add_book()
